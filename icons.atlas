@@ -1,12 +1,18 @@
-
 icons.png
-size: 1024, 256
+size: 100, 100
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Scotland
   rotate: false
   xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Highland Army
+  rotate: false
+  xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
