@@ -6,8 +6,8 @@
 		"startBias": ["[Hill]"],
 		"preferredVictoryType": "Diplomatic",
 
-		"startIntroPart1": "I am Robert the First, No one hates their own fellow human beings, and neither do I.",
-		"startIntroPart2": "I am Robert the First, and Scotland has followed me through harvest and war",
+		"startIntroPart1": "Robert the First, staunch defender of Scotland. You are no stranger to war, but you are not one to abuse your power. If you make people happy, you inspire them to do great things",
+		"startIntroPart2": "If someone manipulates a weaker neighbor, the fearless Highland Legion will rise to the occasion and dress them in the true meaning of freedom.",
 
         "declaringWar": "With war always on our minds, is it necessary to maintain a meaningless and false peace?",
 		"attacked": "You're such a stupid lunatic! You'll end up with the consequences before you've even set foot in Scotland!",
