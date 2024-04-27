@@ -1,9 +1,8 @@
 [
     {
-		//nations
 		"name": "Scotland",
 		"leaderName": "Robert I",
-		"adjective": ["Scots"],
+		"adjective": ["Scotland"],
 		"startBias": ["[Hill]"],
 		"preferredVictoryType": "Diplomatic",
 
@@ -27,5 +26,5 @@
 		"cities": ["Stirling","Edinburg","Glasgow","Aberdeen","Dundee","Inverness","Perth","Dumfries","St Andrews","Paisley",
 			"Kirkwall","Lerwick","Fort William","Oban","Elgin","Ayr","Falkirk","Greenock","Kilmarnock","Dunfermline",
 			"Galashiels","Stornoway","Dumfries"]
-	}
+	  }
 ]
