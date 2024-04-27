@@ -1,0 +1,31 @@
+[
+    {
+		//nations
+		"name": "Scotland",
+		"leaderName": "Robert I",
+		"adjective": ["Scots"],
+		"startBias": ["[Hill]"],
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "I am Robert the First, No one hates their own fellow human beings, and neither do I.",
+		"startIntroPart2": "I am Robert the First, and Scotland has followed me through harvest and war",
+
+        "declaringWar": "With war always on our minds, is it necessary to maintain a meaningless and false peace?",
+		"attacked": "You're such a stupid lunatic! You'll end up with the consequences before you've even set foot in Scotland!",
+		"defeated": "The wind and rain drifted across the highlands today. In the wind came a Scottish elegy. Can you hear that?",
+		"introduction": "I am Robert the First, and Scotland has followed me through harvest and war",
+
+		"neutralHello": "It is wise to get along with our neighbors. The cost of bloodshed is too great.",
+		"hateHello": "You're a fuck-faced idiot who wants to hit you in the head with an axe! But I'm afraid your thick, hard head might break the axe!",
+
+		"tradeRequest": "This request shares peace and friendship",
+
+		"outerColor": [0,0,0],
+		"innerColor": [0,0,100],
+		"uniqueName": "Scottish Enlightenment",
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
+		"cities": ["Stirling","Edinburg","Glasgow","Aberdeen","Dundee","Inverness","Perth","Dumfries","St Andrews","Paisley",
+			"Kirkwall","Lerwick","Fort William","Oban","Elgin","Ayr","Falkirk","Greenock","Kilmarnock","Dunfermline",
+			"Galashiels","Stornoway","Dumfries"]
+	}
+]
