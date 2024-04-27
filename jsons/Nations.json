@@ -1,14 +1,13 @@
 [
     {
-		//nations
 		"name": "Scotland",
 		"leaderName": "Robert I",
-		"adjective": ["Scots"],
+		"adjective": ["Scotland"],
 		"startBias": ["[Hill]"],
 		"preferredVictoryType": "Diplomatic",
 
-		"startIntroPart1": "I am Robert the First, No one hates their own fellow human beings, and neither do I.",
-		"startIntroPart2": "I am Robert the First, and Scotland has followed me through harvest and war",
+		"startIntroPart1": "Robert the First, staunch defender of Scotland. You are no stranger to war, but you are not one to abuse your power. If you make people happy, you inspire them to do great things",
+		"startIntroPart2": "If someone manipulates a weaker neighbor, the fearless Highland Legion will rise to the occasion and dress them in the true meaning of freedom.",
 
         "declaringWar": "With war always on our minds, is it necessary to maintain a meaningless and false peace?",
 		"attacked": "You're such a stupid lunatic! You'll end up with the consequences before you've even set foot in Scotland!",
@@ -20,12 +19,12 @@
 
 		"tradeRequest": "This request shares peace and friendship",
 
-		"outerColor": [0,0,0],
-		"innerColor": [0,0,100],
+		"outerColor": [255,255,255],
+		"innerColor": [0,50,120],
 		"uniqueName": "Scottish Enlightenment",
-		"uniques": ["Free [Great Engineer] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
+		"uniques": ["[+5]% [Science] [in all cities] <while the empire is happy>", "[+5]% [Production] [in all cities] <while the empire is happy>", "[Great Engineer] is earned [50]% faster <when above [8] Happiness>"],
 		"cities": ["Stirling","Edinburg","Glasgow","Aberdeen","Dundee","Inverness","Perth","Dumfries","St Andrews","Paisley",
 			"Kirkwall","Lerwick","Fort William","Oban","Elgin","Ayr","Falkirk","Greenock","Kilmarnock","Dunfermline",
 			"Galashiels","Stornoway","Dumfries"]
-	}
+	  }
 ]
