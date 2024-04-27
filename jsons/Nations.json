@@ -22,7 +22,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [0,50,120],
 		"uniqueName": "Scottish Enlightenment",
-		"uniques": ["[+10]% Science [in all cities] <while the empire is happy>", "[+10]% Production [in all cities] <while the empire is happy>", "[Great Scientist] is earned [50]% faster <when above [8] Happiness>"],
+		"uniques": ["[+10]% Science <while the empire is happy> [in all cities]", "[+10]% Production <while the empire is happy> [in all cities]", "[Great Scientist] is earned [50]% faster <when above [8] Happiness>"],
 		"cities": ["Stirling","Edinburg","Glasgow","Aberdeen","Dundee","Inverness","Perth","Dumfries","St Andrews","Paisley",
 			"Kirkwall","Lerwick","Fort William","Oban","Elgin","Ayr","Falkirk","Greenock","Kilmarnock","Dunfermline",
 			"Galashiels","Stornoway","Dumfries"]
