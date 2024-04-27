@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Highland Army",
+		"unitType": "Scout",
+		"uniqueTo": "Scotland",
+		"movement": 3,
+		"strength": 25,
+		"rangedStrength": 30,
+		"range": 2,
+		"cost": 150,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Infantry",
+		"uniques": ["Can move after attacking","[+1] Sight"],
+		"attackSound": "shot"
+	}
+]
