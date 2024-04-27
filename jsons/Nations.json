@@ -19,8 +19,8 @@
 
 		"tradeRequest": "This request shares peace and friendship",
 
-		"outerColor": [0,0,0],
-		"innerColor": [0,0,100],
+		"outerColor": [255,255,255],
+		"innerColor": [0,50,120],
 		"uniqueName": "Scottish Enlightenment",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
 		"cities": ["Stirling","Edinburg","Glasgow","Aberdeen","Dundee","Inverness","Perth","Dumfries","St Andrews","Paisley",
