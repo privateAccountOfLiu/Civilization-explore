@@ -17,3 +17,10 @@ UnitIcons/Highland Army
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Highland Army
+  rotate: false
+  xy: 300, 0
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
