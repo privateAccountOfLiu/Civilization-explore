@@ -1,0 +1,13 @@
+[
+    {
+		"name": "Golfland",
+		"uniqueTo": "Scotland",
+		"cost": 150,
+		"gold": 2,
+		"happiness": 2,
+		"culture": 2,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "colosseum",
+		"requiredTech": "Chivalry"
+	    }
+]
