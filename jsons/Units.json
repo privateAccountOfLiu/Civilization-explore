@@ -1,5 +1,17 @@
 [
-	{
+ {
+		"name": "Scout",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 25,
+		"obsoleteTech": "Scientific Theory",
+  "upgradesTo": "Highland Army",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	 },
+ {
 		"name": "Highland Army",
 		"unitType": "Scout",
 		"uniqueTo": "Scotland",
