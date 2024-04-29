@@ -7,7 +7,7 @@
 		"happiness": 2,
 		"culture": 2,
 		"hurryCostModifier": 25,
-		"requiredBuilding": "colosseum",
+		"requiredBuilding": "Colosseum",
 		"requiredTech": "Chivalry"
 	    }
 ]
